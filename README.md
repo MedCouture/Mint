@@ -1,0 +1,2 @@
+# Mint
+Mint.medcouture.com
